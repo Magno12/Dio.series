@@ -1,0 +1,16 @@
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\obj\Debug\net5.0\DIO.series.csprojAssemblyReference.cache
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\obj\Debug\net5.0\DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\obj\Debug\net5.0\DIO.series.AssemblyInfoInputs.cache
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\obj\Debug\net5.0\DIO.series.AssemblyInfo.cs
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\obj\Debug\net5.0\DIO.series.csproj.CoreCompileInputs.cache
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\bin\Debug\net5.0\DIO.series.exe
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\bin\Debug\net5.0\DIO.series.deps.json
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\bin\Debug\net5.0\DIO.series.runtimeconfig.json
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\bin\Debug\net5.0\DIO.series.runtimeconfig.dev.json
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\bin\Debug\net5.0\DIO.series.dll
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\bin\Debug\net5.0\ref\DIO.series.dll
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\bin\Debug\net5.0\DIO.series.pdb
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\obj\Debug\net5.0\DIO.series.dll
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\obj\Debug\net5.0\ref\DIO.series.dll
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\obj\Debug\net5.0\DIO.series.pdb
+C:\Users\magno\OneDrive\Documentos\CURSOS\bootcampo -gft\DIO.series\obj\Debug\net5.0\DIO.series.genruntimeconfig.cache
